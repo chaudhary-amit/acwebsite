@@ -12,14 +12,14 @@ education:
   - course: MA in Economics
     institution: Delhi School of Economics
     year: 2014
-  - course: BTech in Chemical Enginnering 
+  - course: BTech in Chemical Engineering 
     institution: Indian Institute of Technology, Kanpur 
     year: 2006
 email: ""
 highlight_name: false
 interests:
-- Applied Economics
-- Econometrics 
+- Econometrics
+- Statistics
 - Finance 
 - Machine Learning
 - Cooking food and software
@@ -47,8 +47,10 @@ superuser: true
 #title: Amit Chaudhary
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a final year PhD candidate in Economics from the University of Warwick with research focusing on econometrics and statistics. I hold BTech in engineering from Indian Institute of Technology, Kanpur and MA in economics from Delhi school of Economics. Before PhD, I have worked in finance at JPMorgan Chase and ICICI bank. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my research I provide the solutions to the real-world problems and in this journey from idea generation to providing solutions, I use statistical and mathematical methods. My projects use large data sets that I have web scraped by writing automated programs. I have also taught the courses covering econometrics, probability, statistics and mathematics at University of Warwick.
+
+I have a keen interest in finance and looking for job opportunities in the field.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Amit_Chaudhary.pdf" "newtab" >}}resumé{{< /staticref >}}.
