@@ -53,4 +53,4 @@ In my research I provide the solutions to the real-world problems and in this jo
 
 I have a keen interest in finance and looking for job opportunities in the field.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Amit_Chaudhary.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_amit_chaudhary.pdf" "newtab" >}}resumé{{< /staticref >}}.
