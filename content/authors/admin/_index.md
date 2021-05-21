@@ -47,7 +47,7 @@ superuser: true
 #title: Amit Chaudhary
 ---
 
-I am a final year PhD candidate in Economics from the University of Warwick with research focusing on econometrics and statistics. I hold BTech in engineering from Indian Institute of Technology, Kanpur and MA in economics from Delhi school of Economics. Before PhD, I have worked in finance at JPMorgan Chase and ICICI bank. 
+I am a final year PhD candidate in Economics from the University of Warwick with research focusing on econometrics and statistics. I hold BTech in engineering from Indian Institute of Technology, Kanpur and MA in economics from Delhi school of Economics. Before joining PhD, I have worked in finance at JPMorgan Chase and ICICI bank. 
 
 In my research I provide the solutions to the real-world problems and in this journey from idea generation to providing solutions, I use statistical and mathematical methods. My projects use large data sets that I have web scraped by writing automated programs. I have also taught the courses covering econometrics, probability, statistics and mathematics at University of Warwick.
 
