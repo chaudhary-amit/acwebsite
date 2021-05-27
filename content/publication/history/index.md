@@ -8,7 +8,7 @@ date: "2021-03-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Religion of final rulers (1757-1857) '
   focal_point: ""
   preview_only: false
 links:

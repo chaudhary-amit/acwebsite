@@ -8,7 +8,7 @@ date: "2021-05-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Inference of model parameters'
   focal_point: ""
   preview_only: false
 links:

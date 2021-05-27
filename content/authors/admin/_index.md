@@ -33,10 +33,13 @@ social:
   link: 'mailto:a.chaudhary.1@warwick.ac.uk'
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/
+  #icon: twitter
+  #icon_pack: fab
+  #label: Follow me on Twitter
+  #link: https://twitter.com/
+- icon: university
+  icon_pack: fas
+  link: https://warwick.ac.uk/fac/soc/economics/staff/achaudhary/
 - icon: github
   icon_pack: fab
   link: https://github.com/chaudhary-amit
@@ -51,6 +54,5 @@ I am a final year PhD candidate in Economics from the University of Warwick with
 
 In my research I provide the solutions to the real-world problems and in this journey from idea generation to providing solutions, I use statistical and mathematical methods. My projects use large data sets that I have web scraped by writing automated programs. I have also taught the courses covering econometrics, probability, statistics and mathematics at University of Warwick.
 
-I have a keen interest in finance and looking for job opportunities in the field.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_amit_chaudhary.pdf" "newtab" >}}resumé{{< /staticref >}}.
