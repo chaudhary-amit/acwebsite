@@ -23,7 +23,7 @@ publication_types:
 - "0"
 #publishDate: 
 #slides: example
-summary: "I combine data from Airbnb and Zoopla and examine how the price of individual houses evolve over time, as Airbnb penetrates the market in the area of Greater London."
+summary: "I combine data from Airbnb and Zoopla and examine how the prices of individual houses evolve over time as Airbnb penetrates the market in Greater London."
 tags:
 - Source Themes
 title: "Effects of Airbnb on the housing market: Evidence from London."

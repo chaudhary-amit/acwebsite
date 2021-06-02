@@ -19,16 +19,19 @@ gallery_item:
   caption: Write your image caption here
 ---
 
-I am originally from India and came from the family of farmers. In my childhood I have spent lot of time on the farms and learned some real-life lessons on human perseverance.
+I am originally from India and came from a family of farmers. In my childhood I spent lot of time on farms and learned some real-life lessons about human perseverance. 
 
-I then went to study chemical engineering from IIT Kanpur and borrowed my first suit when I was twenty-one in final year of IIT for a job interview in Ansys, industry leader in Computation Fluid Dynamics. After modelling flow of liquids in high temperature, I then moved to financial sector and worked in a couple of banks in Mumbai, “the city of dreams”.
+I then went on to study chemical engineering at IIT Kanpur. I borrowed my first suit when I was twenty-one and in my final year at IIT for a job interview with Ansys, an industry leader in Computation Fluid Dynamics. After working at Ansys, modelling the flow of liquids at high temperatures, I then moved to the financial sector and worked in a couple of banks in Mumbai, “the city of dreams”. 
+ 
 
-While working in JPMorgan Chase, I got interested in economics and statistics. I got eager to learn more about it and went to study masters in economics from renowned Delhi School of Economics. There the new horizon of research opened for me and I decided to pursue research.
+While working at JPMorgan Chase, I became interested in economics and statistics. I became eager to learn more about these topics, and went to study for a master’s degree in economics from the Delhi School of Economics. There, new horizons of research opened for me and I decided to pursue a PhD. 
 
-I won a fully funded offer to do Master of Research from University of Warwick and moved to London. I secured the distinction in that research degree and progressed to a fully funded PhD program. Now, I am in the final phase of my PhD.
 
-I like to build things whether it is piece of software, garden, or recipes. In my free time which is rare because I have a two-year-old :baby: now, I like to cook something special for my family. Here are pictures of some of them.
+I won a fully funded offer to enrol in a Master’s of Research program at the University of Warwick and moved to London. I secured a distinction in that research degree and progressed to a fully funded PhD program. Now, I am in the final phase of my PhD. 
+ 
 
-Thanks for stopping by and reading about me!
+I like to make things, whether it is piece of software, a garden, or a recipe. In my free time, which is rare because I have a two-year-old 👶 now, I like to cook something special for my family. Here are some pictures. 
+
+Thanks for stopping by and reading about me! 
 
 {{< gallery album="gallery" >}}

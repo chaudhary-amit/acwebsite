@@ -21,7 +21,7 @@ publication_types:
 - "0"
 #publishDate: 
 #slides: example
-summary: "In this project I use 40 million webscraped land records and 10 million geocoded public goods to show that when politician from a certain caste is elected, he/she allocates public goods to his/her own caste."
+summary: "In this project I use 40 million webscraped land records and 10 million geocoded public goods to show that when a politician from a certain caste is elected, he/she allocates public goods to his/her own caste."
 
 
 tags:

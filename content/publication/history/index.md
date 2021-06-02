@@ -24,7 +24,7 @@ publication_types:
 - "0"
 #publishDate: 
 #slides: example
-summary: "Using novel data set combining the religion of the deposed ruler, with the literacy outcomes of Hindus and Muslims in Indian census data for the years 1881, 1911 and 1921, we show that religious group can resist modern education due to foreign occupation."
+summary: "Using novel data combining the religion of the final pre-colonial ruler with literacy outcomes of Hindus and Muslims in India between 1881 and 1921, we show that religious groups resisted modern education due to foreign occupation."
 tags:
 - Source Themes
 title: "Resisting modernisation due to resentment? Evidence from British India."

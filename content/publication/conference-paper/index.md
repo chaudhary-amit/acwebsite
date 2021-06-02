@@ -24,7 +24,7 @@ publication_types:
 - "0"
 #publishDate: 
 #slides: example
-summary: I develop an estimation methodology that allows three-sided heterogeneity on matched panel data. I encapsulate the machine learning in the classification step of estimation to the Markovian model of worker mobility and apply it to novel data of police department. 
+summary: I develop an estimation methodology that allows for three-sided heterogeneity. I implement this on matched panel data. I use machine learning in the classification step of the estimation of a Markovian model of worker mobility and apply it to novel data on police departments. 
 tags:
 - Source Themes
 title: "Does worker, manager, and firm heterogeneity matter for productivity?"

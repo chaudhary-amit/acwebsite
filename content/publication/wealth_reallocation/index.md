@@ -21,7 +21,7 @@ publication_types:
 - "0"
 #publishDate: 
 #slides: example
-summary: "We use a novel data set to understand the determinants of wealth accumulation of civil servants in India."
+summary: "We use a novel data set to understand the determinants of wealth accumulation by civil servants in India."
 tags:
 - Source Themes
 title: "Reallocation and Wealth of Bureaucrats: Evidence from India."
