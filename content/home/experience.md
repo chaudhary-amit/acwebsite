@@ -30,9 +30,10 @@ experience:
     location: London
     date_start: '2021-05-01'
     date_end: ''
-    description: Working on pricing of USD pegged stablecoin  
-
-  
+    description: |2- 
+        Working on following projects:
+      * News and after-hours trading in equities markets
+      * Pricing of USD pegged stablecoin  
 
   - title: Strategist
     company: JPMorgan Chase 
