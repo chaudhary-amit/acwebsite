@@ -19,8 +19,8 @@ email: ""
 highlight_name: false
 interests:
 - Econometrics
+- Finance
 - Statistics
-- Finance 
 - Machine Learning
 - Cooking food and software
 organizations:
@@ -50,9 +50,15 @@ superuser: true
 #title: Amit Chaudhary
 ---
 
-I am a final year PhD candidate in Economics at the University of Warwick. My research focuses on econometrics and statistics. I hold a BTech in engineering from the Indian Institute of Technology, Kanpur and a MA in economics from the Delhi school of Economics. Before starting my PhD, I have worked in finance at JPMorgan Chase and ICICI bank. 
+I am a final year PhD candidate in Economics at the University of Warwick. My research focuses on finance, econometrics and statistics. I hold a BTech in engineering from the Indian Institute of Technology, Kanpur and a MA in economics from the Delhi school of Economics. Before starting my PhD, I have worked in finance at JPMorgan Chase and ICICI bank. 
 
-In my research, I provide solutions to real-world problems. In this journey from idea generation to providing solutions, I use statistical and mathematical methods. My projects use large data sets that I have web scraped by writing automated programs. I have also taught courses covering econometrics, probability, statistics, and mathematics at University of Warwick. 
+I have worked on cryptocurrency asset pricing,  FX trading using crypto derivative assets, Alpha generation using novel signals in systematic trading, market microstructure related to after-hours trading in the equities market, and peer-to-peer digital markets like Airbnb.
+
+I am an author of R statistical package called acblm. This R package is based on my novel research method to estimate the unobserved non-linear latent factors using machine learning.
+
+My research papers also have strong causal inference component.
+
+I am skilled in R, Python, and data science techniques. I have also taught courses covering econometrics, probability, statistics, and mathematics at University of Warwick. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_amit_chaudhary.pdf" "newtab" >}}resumé{{< /staticref >}}.

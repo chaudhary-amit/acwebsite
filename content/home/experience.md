@@ -22,19 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
-  - title: Research Associate
-    company: Finance group, Warwick Business School 
-    company_url: 'https://warwick.ac.uk/fac/soc/wbs/subjects/finance/'
-    #company_logo: org-x
-    location: London
-    date_start: '2021-05-01'
-    date_end: ''
-    description: |2- 
-        Working on following projects:
-      * News and after-hours trading in equities markets
-      * Pricing of USD pegged stablecoin  
-
   - title: Strategist
     company: JPMorgan Chase 
     company_url: 'https://www.jpmorganchase.com/'
