@@ -25,7 +25,7 @@ publication_types:
 summary: Available on request 
 tags:
 - Source Themes
-title: "DeFi Lending Protocols: Liquidation Risk and the Carry Trade?"
+title: "DeFi Lending Protocols: Liquidation Risk and the Carry Trade"
 #url_code: '#'
 #url_dataset: '#'
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
