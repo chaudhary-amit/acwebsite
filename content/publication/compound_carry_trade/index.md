@@ -4,9 +4,9 @@ abstract:
  
 authors:
 - "Amit Chaudhary"
-- "Oliver Gleode"
-- "Roman Kozhan"
-- "Ganesh Viswanath-Natraj"
+#- "Oliver Gleode"
+#- "Roman Kozhan"
+#- "Ganesh Viswanath-Natraj"
 date: "2021-05-10T00:00:00Z"
 doi: ""
 featured: true
