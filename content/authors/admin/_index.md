@@ -50,7 +50,7 @@ superuser: true
 #title: Amit Chaudhary
 ---
 
-I am a final year PhD candidate in Economics at the University of Warwick. My research focuses on finance, econometrics and statistics. Before starting my PhD, I have worked in finance at JPMorgan Chase and ICICI bank. 
+I am a final year PhD candidate in Economics at the University of Warwick. My research interest include finance, econometrics and statistics. Before starting my PhD, I have worked in finance at JPMorgan Chase and ICICI bank. 
 
 I have worked on implementing trading strategies in cryptocurrency markets such as the futures-spot basis and carry trade. I have assessed the market efficiency of decentralized finance applications and collecting market data from APIs. I have also investigated after-hours trading in the equities market and peer-to-peer digital markets like Airbnb.
 
