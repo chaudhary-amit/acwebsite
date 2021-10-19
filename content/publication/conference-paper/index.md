@@ -1,5 +1,5 @@
 ---
-abstract: In this paper, I ask whether the total productivity in the economy can be increased by reallocating workers. I develop an estimation methodology that allows three-sided heterogeneity in worker, manager, and firm interaction. I encapsulate the machine learning in the classification step of estimation to the Markovian model of worker mobility. I apply my model to the novel micro data of police department comprising worker level measurement of productivity to show if the current matching level is raised using optimal matching rule (positive assortative matching) then there is an 10 % increase in the aggregate productivity of police department.
+abstract: Misallocation of resources in an economy makes firms less productive. I document the roles of heterogeneity, sorting, and complementarity in a framework where workers, managers, and firms interact to shape productivity. The approach I follow uses the movement of workers and managers across firms to identify the distribution of productivity. I webscraped novel microdata of crime reports from the Indian police department and combined them with the worker-level measurement of productivity. Using this data I show that the third source of heterogeneity in the form of manager ability is an important driver of differences in firm productivity. I empirically identify complementarities between workers, managers, and firms using my estimation methodology. Counterfactual results show that reallocating workers by applying a positive assortative sorting rule can increase police department productivity by 10%.
 
  
 authors:
@@ -12,8 +12,8 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Slides
-  url: "/media/acblm.pdf"
+- name: Paper
+  url: "https://warwick.ac.uk/fac/soc/economics/research/workingpapers/2021/twerp_1377_-_chaudhary.pdf"
 - name: 'R package'
   url: "/acblm/docs/index.html"
 #projects:
@@ -27,7 +27,7 @@ publication_types:
 summary: I develop an estimation methodology that allows for three-sided heterogeneity. I implement this on matched panel data. I use machine learning in the classification step of the estimation of a Markovian model of worker mobility and apply it to novel data on police departments. 
 tags:
 - Source Themes
-title: "Does worker, manager, and firm heterogeneity matter for productivity?"
+title: "Do workers, managers, and stations matter for effective policing? A decomposition of productivity into three dimensions of unobserved heterogeneity."
 #url_code: '#'
 #url_dataset: '#'
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf

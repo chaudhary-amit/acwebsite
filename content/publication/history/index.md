@@ -12,10 +12,9 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Slides
-  url: "/media/history.pdf"
-- name: 'code'
-  url: ""
+- name: Paper
+  url: "/media/resisting_modernisation_amit.pdf"
+
 #projects:
 #- internal-project
 publication: 

@@ -11,8 +11,8 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Slides
-  url: "/media/airbnb.pdf"
+- name: Paper
+  url: "/media/Airbnb_rents_london_amit.pdf"
 - name: 'code'
   url: "https://github.com/chaudhary-amit/zoopla-scraper"
 #projects:

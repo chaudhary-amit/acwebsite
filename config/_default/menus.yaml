@@ -19,6 +19,6 @@ main:
   - name: Teaching
     url: courses/
     weight: 60
-  - name: Resume
-    url: /media/CV_Amit_Chaudhary.pdf
-    weight: 80
+#  - name: Resume
+ #   url: /media/CV_Amit_Chaudhary.pdf
+  #  weight: 80
