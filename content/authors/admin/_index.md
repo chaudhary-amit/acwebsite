@@ -6,7 +6,7 @@ education:
   - course: PhD in Economics
     institution: University of Warwick
     year: 2021 (submitted)
-  - course: MRes in Economics 
+  - course: MRes in Economics, distinction 
     institution: University of Warwick
     year: 2017
   - course: MA in Economics
@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: University of Warwick
   url: https://www.warwick.ac.uk
-role: PhD Candidate
+role: PhD (submitted)
 social:
 - icon: envelope
   icon_pack: fas

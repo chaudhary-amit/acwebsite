@@ -26,7 +26,7 @@ experience:
     company: JPMorgan Chase 
     company_url: 'https://www.jpmorganchase.com/'
     #company_logo: org-gc
-    location: Mumbai
+    location: 
     date_start: '2009-10-01'
     date_end: '2012-06-01'
     description: |2-
@@ -40,10 +40,20 @@ experience:
     company: ICICI bank 
     company_url: 'https://www.icicibank.com/'
     #company_logo: org-x
-    location: Mumbai
+    location: 
     date_start: '2008-02-01'
     date_end: '2009-10-31'
     description: 
+    
+  - title: Engineer (Computational Fluid Dynamics)
+    company: Ansys 
+    company_url: 'https://www.ansys.com/'
+    #company_logo: org-x
+    location: 
+    date_start: '2006-06-01'
+    date_end: '2008-01-30'
+    description: 
+    
 
 design:
   columns: '2'
