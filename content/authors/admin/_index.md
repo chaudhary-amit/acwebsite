@@ -5,7 +5,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Warwick
-    year: 2021 (submitted)
+    year: 2021
   - course: MRes in Economics, distinction 
     institution: University of Warwick
     year: 2017
@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: University of Warwick
   url: https://www.warwick.ac.uk
-role: PhD (submitted)
+role: PhD Economics
 social:
 - icon: envelope
   icon_pack: fas
@@ -50,12 +50,12 @@ superuser: true
 #title: Amit Chaudhary
 ---
 
-My research interest include finance, econometrics and statistics. Before starting my PhD, I have worked in finance at JPMorgan Chase and ICICI bank. 
+My research interest include cryptocurrency, finance, econometrics and statistics. Before starting my PhD, I have worked in finance at JPMorgan Chase and ICICI bank. 
 
 I have worked on implementing trading strategies in cryptocurrency markets such as the futures-spot basis and carry trade. I have assessed the market efficiency of decentralized finance applications and collecting market data from APIs. I have also investigated after-hours trading in the equities market and peer-to-peer digital markets like Airbnb.
 
 I am an author of R statistical package called acblm. This R package is based on my novel research method to estimate the unobserved non-linear latent factors using machine learning.
-
+ 
 My research papers also have strong causal inference component.
 
 I am skilled in R, Python, and data science techniques. I have also taught courses covering econometrics, probability, statistics, and mathematics at University of Warwick. 
