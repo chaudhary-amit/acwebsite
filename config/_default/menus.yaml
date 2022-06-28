@@ -16,8 +16,8 @@ main:
   - name: Research
     url: '#featured'
     weight: 50
-  - name: Teaching
-    url: courses/
+  - name: Talks
+    url: event/
     weight: 60
 #  - name: Resume
  #   url: /media/CV_Amit_Chaudhary.pdf

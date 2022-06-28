@@ -1,14 +1,14 @@
 ---
-bio: PhD candidate having industry experience in finance with interest in econometrics and statistics. 
+bio: Crytocurrency enthusiast 
   matter.
 education:
   courses:
   - course: PhD in Economics
     institution: University of Warwick
-    year: 2021
+    year:
   - course: MRes in Economics, distinction 
     institution: University of Warwick
-    year: 2017
+    year: 
   - course: MA in Economics
     institution: Delhi School of Economics
     year: 2014
@@ -18,31 +18,28 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Econometrics
-- Finance
-- Statistics
-- Machine Learning
-- Cooking food and software
+- Decentralized Finance (DeFi)
+- Crypto 
+- Economics
+- Cooking food and minting blocks
 organizations:
-- name: University of Warwick
-  url: https://www.warwick.ac.uk
-role: PhD Economics
+- name: Polygon Technology
+  url: https://polygon.technology/
+role: Head of DeFi Research
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:a.chaudhary.1@warwick.ac.uk'
+#- icon: envelope
+ # icon_pack: fas
+  #link: 'mailto:a.chaudhary.1@warwick.ac.uk'
 - display:
     header: true
-  #icon: twitter
-  #icon_pack: fab
-  #label: Follow me on Twitter
-  #link: https://twitter.com/
-- icon: university
-  icon_pack: fas
-  link: https://warwick.ac.uk/fac/soc/economics/staff/achaudhary/
-- icon: github
+  icon: twitter
   icon_pack: fab
-  link: https://github.com/chaudhary-amit
+  label: Follow me on Twitter
+  link: https://twitter.com/amitchax
+
+#- icon: github
+#  icon_pack: fab
+ # link: https://github.com/chaudhary-amit
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/amitcha
@@ -50,15 +47,10 @@ superuser: true
 #title: Amit Chaudhary
 ---
 
-My research interest include cryptocurrency, finance, econometrics and statistics. Before starting my PhD, I have worked in finance at JPMorgan Chase and ICICI bank. 
 
-I have worked on implementing trading strategies in cryptocurrency markets such as the futures-spot basis and carry trade. I have assessed the market efficiency of decentralized finance applications and collecting market data from APIs. I have also investigated after-hours trading in the equities market and peer-to-peer digital markets like Airbnb.
+I work at the intersection of crypto, finance, economics, and tech.
 
-I am an author of R statistical package called acblm. This R package is based on my novel research method to estimate the unobserved non-linear latent factors using machine learning.
- 
-My research papers also have strong causal inference component.
 
-I am skilled in R, Python, and data science techniques. I have also taught courses covering econometrics, probability, statistics, and mathematics at University of Warwick. 
-
+Previously, I have worked in quantitative roles in TradFi firms like JPMorgan Chase and ICICI bank. I begin my career as a computational fluid dynamics engineer.
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_amit_chaudhary.pdf" "newtab" >}}resumé{{< /staticref >}}.*/}} -->
