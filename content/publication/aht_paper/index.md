@@ -24,7 +24,7 @@ publication_types:
 summary: This paper explores after-hours trading (AHT) in U.S. equity markets.
 tags:
 - Source Themes
-title: "News and After-Hours Trading in Equities market (Research Assitant)"
+title: "News and After-Hours Trading in Equities market (Research Assistant)"
 #url_code: '#'
 #url_dataset: '#'
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf

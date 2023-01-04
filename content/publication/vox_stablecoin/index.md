@@ -9,7 +9,7 @@ date: "2021-05-10T00:00:00Z"
 doi: ""
 featured: true
 image:
-
+  focal_point: center
 links:
 - name: link
   url: "https://voxeu.org/article/algorithmic-stablecoins-and-devaluation-risk"

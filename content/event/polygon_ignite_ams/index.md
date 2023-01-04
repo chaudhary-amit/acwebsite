@@ -17,7 +17,7 @@ links:
  # icon_pack: fab
 #  name: Follow
  # url: https://twitter.com/georgecushen
-location: Amsterdam
+location: Polygon Ignite conference at ETH Amsterdam
 #projects:
 #- internal-project
 #publishDate: "2017-01-01T00:00:00Z"

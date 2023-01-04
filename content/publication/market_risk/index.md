@@ -9,10 +9,10 @@ date: "2021-05-10T00:00:00Z"
 doi: ""
 featured: true
 image:
-
+  focal_point: center
 links:
-- name: pdf
-  url: "/media/Market_Risk_polygon.pdf"
+- name: arXiv
+  url: "https://arxiv.org/abs/2211.08870"
 #projects:
 #- internal-project
 publication: 

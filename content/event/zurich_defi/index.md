@@ -8,7 +8,7 @@ date: "2022-06-01"
 /date_end: 
 event: "DeFi Conference hosted by the BIS Innovation Hub and the Swiss National Bank"
 event_url: https://www.bis.org/events/220404_defi.htm
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
@@ -17,13 +17,13 @@ links:
  # icon_pack: fab
 #  name: Follow
  # url: https://twitter.com/georgecushen
-location: Zurich
+location: "DeFi Conference hosted by the BIS Innovation Hub and the Swiss National Bank, Zurich"
 #projects:
 #- internal-project
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary: DeFi Conference hosted by the BIS Innovation Hub and the Swiss National Bank.
-tags: []
+tags: [featured]
 title: "The road ahead: challenges and opportunities for DeFi and CBDCs"
 url_code: ""
 url_pdf: ""

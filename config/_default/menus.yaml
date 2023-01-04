@@ -7,18 +7,21 @@ main:
   - name: About me
     url: 'example/'
     weight: 90
- # - name: Posts
-  #  url: '#posts'
-  #  weight: 20
+  - name: Posts
+    url: '#posts'
+    weight: 60
  # - name: Projects
 #    url: '#projects'
  #   weight: 30
-  - name: Research
+  - name: Press 
+    url: '#press'
+    weight: 10
+  - name: Research papers
     url: '#featured'
     weight: 50
   - name: Talks
-    url: event/
-    weight: 60
+    url: '#talks'
+    weight: 20
 #  - name: Resume
  #   url: /media/CV_Amit_Chaudhary.pdf
   #  weight: 80
