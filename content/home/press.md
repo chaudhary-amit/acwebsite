@@ -35,6 +35,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+- [Bloomberg](https://www.bloomberg.com/opinion/articles/2023-01-12/defi-vs-tradfi-terminator-bots-police-loan-market). Mukherjee, A. (2023, Jan 12). *When Terminator Robots Police Loan Markets.*
 - [Cointelegraph](https://cointelegraph.com/news/proof-of-reserves-is-becoming-more-effective-but-not-all-its-challenges-are-technical). Anderson, D. (2022, December 31). *Proof of reserves is becoming more effective, but not all its challenges are technical.*
 - [Cointelegraph](https://cointelegraph.com/news/what-to-expect-from-crypto-the-year-after-ftx). Chaudhary, A. (2022, December 30). *What to expect from crypto the year after FTX.*
 - [Messari](https://messari.io/report/gauntlet-proposal-for-aave-protocol-risk-management-failure-and-future). Oghenekaro, E. (2022, December 21). *Gauntlet's Proposal for Aave Protocol Risk Management: Failure and Future.*

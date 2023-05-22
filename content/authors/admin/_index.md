@@ -23,9 +23,9 @@ interests:
 - Smart contracts
 - Cooking food and minting blocks
 organizations:
-- name: Polygon Technology
-  url: https://polygon.technology/
-role: Head of DeFi Research
+# name: Polygon Technology
+#  url: https://polygon.technology/
+role: Researcher
 social:
 #- icon: envelope
  # icon_pack: fas
@@ -50,7 +50,7 @@ superuser: true
 
 My research interest lies in cryptocurrencies and blockchain technologies focused on Decentralized Finance (DeFi), analyses of incentives in protocols, cryptocurrency adoption, smart contracts, and tokenomics.
 
-I am currently leading the research and development of DeFi protocols and spearheading the design of blockchain economic models at [Polygon](https://polygon.technology/). Previously I have worked in quantitative roles in traditional finance firms like [JPMorgan Chase](https://www.jpmorganchase.com/) and [ICICI bank](https://www.icicibank.com/). I started my career as a computational fluid dynamics engineer at [Ansys](https://www.ansys.com/en-gb/products/fluids/ansys-fluent).
+I am a Research Fellow at [Gillmore Centre for Financial Technology](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/). Previosly I lead the research and development of DeFi protocols and spearheaded the design of blockchain economic models at [Polygon](https://polygon.technology/). I have worked in quantitative roles in traditional finance firms like [JPMorgan Chase](https://www.jpmorganchase.com/) and [ICICI bank](https://www.icicibank.com/). I started my career as a computational fluid dynamics engineer at [Ansys](https://www.ansys.com/en-gb/products/fluids/ansys-fluent).
 
 I hold a PhD in Economics from the University of Warwick, an MA in economics from the Delhi School of Economics, and a Bachelor of Technology from IIT Kanpur.
 

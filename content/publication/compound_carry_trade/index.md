@@ -1,5 +1,5 @@
 ---
-abstract: In this paper, we provide a model to explain equilibrium pricing of interest rates on Defi lending protocols. We pin down the fundamental sources of risk that explain the cross-section of interest rates. We also examine whether classic no arbitrage conditions in currency markets hold like covered interest rate parity. We find interest rate differences reflect the relative bearish and bullish beliefs of investors. If long positions on risky cryptocurrencies dominate, we show that interest rates are lower relative to stablecoins. We strengthen our findings by documenting the link between the interest rate differences and futures premia
+abstract: This paper studies determinants of interest rates on Decentralized lending protocols. Using transaction level data, we show these protocols are being used to make long or short leveraged positions in the cryptocurrency market. We identify a significant relationship between the interest rate differential and the perpetual futures premium for the ETH/USDT market. However, the link is economically weak, indicating that the speculative beliefs in the two markets are only weakly correlated and that the markets are segmented. Arbitrage across the two markets is ineffective due to wide no-arbitrage bounds, which are governed by high trading costs, gas fees, and price impacts.
 
  
 authors:
@@ -15,7 +15,7 @@ image:
 links:
 
 - name: pdf
-  url: "/media/Crypto_Lending-protected.pdf"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437706"
 - name: "Tokenomics 2022"
   url: ""
 - name: "CESC UC Berkely"
@@ -29,7 +29,7 @@ publication_types:
 - "0"
 #publishDate: 
 #slides: example
-summary: "[Draft available on request] In this paper, we provide a model to explain equilibrium pricing of interest rates on Defi lending protocols.We pin down the fundamental sources of risk that explain the cross-section of interest rates."
+summary: " This paper studies determinants of interest rates on Decentralized lending protocols."
 tags:
 - Source Themes
 title: "Interest Rate Parity in Decentralized Finance"
