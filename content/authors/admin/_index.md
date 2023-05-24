@@ -25,7 +25,7 @@ interests:
 organizations:
 # name: Polygon Technology
 #  url: https://polygon.technology/
-role: Researcher
+role: Research Fellow
 social:
 #- icon: envelope
  # icon_pack: fas
