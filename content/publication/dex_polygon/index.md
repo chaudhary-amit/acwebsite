@@ -28,7 +28,7 @@ image:
   focal_point: center
 links:
 - name: working paper
-  url: "https://drive.google.com/file/d/1CgluuEHPN1EdoRmsQqf35RBcp5rF7esk/view"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475460"
 #projects:
 #- internal-project
 publication: 
