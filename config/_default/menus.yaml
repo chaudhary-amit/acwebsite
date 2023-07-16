@@ -16,12 +16,12 @@ main:
   - name: Press 
     url: '#press'
     weight: 10
-  - name: Research papers
+  - name: Research
     url: '#featured'
-    weight: 50
+    weight: 20
   - name: Talks
     url: '#talks'
-    weight: 20
+    weight: 50
 #  - name: Resume
  #   url: /media/CV_Amit_Chaudhary.pdf
   #  weight: 80
