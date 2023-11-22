@@ -24,8 +24,8 @@ interests:
 - Smart contracts
 - Cooking food and minting blocks
 organizations:
- - name: ChainSolid Labs
- - url: https://www.chainsolid.com
+ - name: 
+ - url:
 role: 
 social:
 #- icon: envelope
@@ -49,9 +49,9 @@ superuser: true
 ---
 
 
-Prior to founding [ChainSolid Labs](https://www.chainsolid.com), I was the Head of DeFi Research at [Polygon](https://polygon.technology/). I am a honorary research fellow at [Gillmore Centre for Financial Technology](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/). 
+I am a [honorary research fellow](https://www.wbs.ac.uk/about/person/CHAUDHARY/) at Gillmore Centre for Financial Technology at [University of Warwick](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/). 
 
-At Polygon, I led the R&D and incubation of innovative blockchain primitives and co-authored the whitepaper of Polygon 2.0. I have authored multiple papers on the topics of zero knowledge proofs, privacy, novel design and risk assessment of DeFi protocols and crypto economics. 
+I was the Head of DeFi Research at [Polygon](https://polygon.technology/). At Polygon, I also led the R&D and incubation of innovative blockchain primitives and co-authored the whitepaper of Polygon 2.0. I have authored multiple papers on the topics of zero knowledge proofs, privacy, novel design and risk assessment of DeFi protocols and crypto economics. 
 
 I am an active advisor and speaker in the blockchain  community, and has served as a technical advisor for several blockchain startups. 
 I have worked in quantitative roles in traditional finance firms like [JPMorgan Chase](https://www.jpmorganchase.com/) and [ICICI bank](https://www.icicibank.com/). I started my career as a computational fluid dynamics engineer at [Ansys](https://www.ansys.com/en-gb/products/fluids/ansys-fluent).
