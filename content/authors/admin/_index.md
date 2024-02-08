@@ -48,8 +48,9 @@ superuser: true
 #title: Amit Chaudhary
 ---
 
+I'm the co-founder of [zkFi](https://www.zkfi.tech/) a modular framework to preserve privacy in public blockchains and simultaneously provide decentralized compliance network.
 
-I am a [honorary research fellow](https://www.wbs.ac.uk/about/person/CHAUDHARY/) at Gillmore Centre for Financial Technology at [University of Warwick](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/). 
+I'm also an [honorary research fellow](https://www.wbs.ac.uk/about/person/CHAUDHARY/) at Gillmore Centre for Financial Technology at [University of Warwick](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/). 
 
 I was the Head of DeFi Research at [Polygon](https://polygon.technology/). At Polygon, I also led the R&D and incubation of innovative blockchain primitives and co-authored the whitepaper of Polygon 2.0. I have authored multiple papers on the topics of zero knowledge proofs, privacy, novel design and risk assessment of DeFi protocols and crypto economics. 
 
