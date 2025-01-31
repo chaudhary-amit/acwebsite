@@ -48,7 +48,7 @@ superuser: true
 #title: Amit Chaudhary
 ---
 
-I'm the founder of [Labyrinth](https://labyrinth.technology/), a modular framework to preserve privacy in public blockchains and simultaneously provide decentralized compliance network.
+I'm the founder of [Labyrinth](https://labyrinth.ac/), a modular framework to preserve privacy in public blockchains and simultaneously provide decentralized compliance network.
 
 I'm also an [honorary research fellow](https://www.wbs.ac.uk/about/person/CHAUDHARY/) at Gillmore Centre for Financial Technology at [University of Warwick](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/). 
 
