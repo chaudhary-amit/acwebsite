@@ -5,9 +5,7 @@ In this paper, we propose a framework that balances privacy-preserving features 
  
 authors:
 - "Amit Chaudhary"
-- "Mitul Gajera"
 - "Hamish Ivey-Law"
-- "Naveen Sahu"
 date: "2023-11-16T00:00:00Z"
 doi: ""
 featured: true

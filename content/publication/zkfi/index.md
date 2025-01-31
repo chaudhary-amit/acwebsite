@@ -4,8 +4,6 @@ abstract: "We propose a middleware solution designed to facilitate seamless inte
  
 authors:
 - "Amit Chaudhary"
-- "Mitul Gajera"
-- "Naveen Sahu"
 date: "2023-07-06T00:00:00Z"
 doi: ""
 featured: true
