@@ -48,7 +48,7 @@ superuser: true
 #title: Amit Chaudhary
 ---
 
-I'm the Founder and CEO at stealth working on decentralized AI economy build on trust, privacy and aligned incentives.
+I'm the Founder and CEO at stealth working on decentralized AI economy built on trust, privacy and aligned incentives.
 
 I'm also an [honorary research fellow](https://www.wbs.ac.uk/about/person/CHAUDHARY/) at Gillmore Centre for Financial Technology at [University of Warwick](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/). 
 
