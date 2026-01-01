@@ -33,10 +33,10 @@ social:
   #link: 'mailto:a.chaudhary.1@warwick.ac.uk'
 - display:
     header: true
-  #icon: twitter
-  #icon_pack: fab
-  #label: Follow me on Twitter
-  #link: https://twitter.com/amitchax
+  icon: twitter
+  icon_pack: fab
+  label: Follow me on Twitter
+  link: https://twitter.com/amitchax
 
 #- icon: github
 #  icon_pack: fab
