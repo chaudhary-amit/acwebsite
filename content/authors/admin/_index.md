@@ -48,9 +48,13 @@ superuser: true
 #title: Amit Chaudhary
 ---
 
-I'm the Founder of [Palliora](https://www.palliora.org/), where anyone can share, monetize, and compute privately on their data with selective disclosure, verifiable results, and fair rewards.
+I'm the Founder of [Palliora](https://www.palliora.org/), a global network where anyone can share, monetize, and compute privately on their data with selective disclosure, verifiable results, and fair rewards.
 
-I am building the foundation for a decentralized economy grounded in trust, privacy, and aligned incentives in the age of AI. This mission is being realized through Palliora's ecosystem applications. [Veilnyx](https://veilnyx.com/), our privacy protocol native to Ethereum, ensures decentralized compliance. [Lynra](https://www.lynra.ai/) serves as an accountable DeFi agent, while [Valorae](https://valorae.tech/) can perform AI inference on sensitive data while maintaining user privacy. Additionally, [Datari](https://datari.app/) offers encrypted training to enhance data security.
+I am building the foundation for a decentralized economy grounded in trust, privacy, and aligned incentives in the age of AI. This mission is being realized through Palliora's ecosystem applications.
+* [Veilnyx](https://veilnyx.com/), privacy protocol native to Ethereum with decentralized compliance.
+* [Lynra](https://www.lynra.ai/) serves as an accountable DeFi agent, while 
+* [Valorae](https://valorae.tech/) can perform AI inference on sensitive data while maintaining user privacy. Additionally, 
+* [Datari](https://datari.app/) offers encrypted training to enhance data security.
 
 
 I'm also an [honorary research fellow](https://www.wbs.ac.uk/about/person/CHAUDHARY/) at Gillmore Centre for Financial Technology at [University of Warwick](https://www.wbs.ac.uk/research/research-centres-and-networks/gillmore-centre-financial-technology/). 
