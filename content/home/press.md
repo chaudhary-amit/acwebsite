@@ -35,6 +35,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+- [Finextra](https://www.finextra.com/the-long-read/1561/the-ai-revolution-has-hit-an-impasse--its-time-to-solve-the-hayekian-paradox). Chaudhary, A. (2026, Feb 02). *The AI revolution has hit an impasse – it’s time to solve the Hayekian paradox*
 - [Bloomberg](https://www.bloomberg.com/opinion/articles/2023-01-12/defi-vs-tradfi-terminator-bots-police-loan-market). Mukherjee, A. (2023, Jan 12). *When Terminator Robots Police Loan Markets.*
 - [Cointelegraph](https://cointelegraph.com/news/proof-of-reserves-is-becoming-more-effective-but-not-all-its-challenges-are-technical). Anderson, D. (2022, December 31). *Proof of reserves is becoming more effective, but not all its challenges are technical.*
 - [Cointelegraph](https://cointelegraph.com/news/what-to-expect-from-crypto-the-year-after-ftx). Chaudhary, A. (2022, December 30). *What to expect from crypto the year after FTX.*

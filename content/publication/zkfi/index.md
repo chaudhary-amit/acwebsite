@@ -1,5 +1,5 @@
 ---
-abstract: "We propose a middleware solution designed to facilitate seamless integration of privacy using zero-knowledge proofs within various multi-chain protocols, encompassing domains such as DeFi, gaming, social networks, DAOs, e-commerce, and the metaverse. Our design achieves two divergent goals. zkFi aims to preserve consumer privacy while achieving regulation compliance through zero-knowledge proofs. These ends are simultaneously achievable. zkFi protocol is designed to function as a plug-and-play solution, offering developers the flexibility to handle transactional assets while abstracting away the complexities associated with zero-knowledge proofs. Notably, specific expertise in zero-knowledge proofs (ZKP) is optional, attributed to zkFi's modular approach and software development kit (SDK) availability."
+abstract: "We propose a middleware solution designed to facilitate seamless integration of privacy using zero-knowledge proofs within various multi-chain protocols, encompassing domains such as DeFi, gaming, social networks, DAOs, e-commerce, and the metaverse. Our design achieves two divergent goals. Veilnyx aims to preserve consumer privacy while achieving regulation compliance through zero-knowledge proofs. These ends are simultaneously achievable. Veilnyx protocol is designed to function as a plug-and-play solution, offering developers the flexibility to handle transactional assets while abstracting away the complexities associated with zero-knowledge proofs. Notably, specific expertise in zero-knowledge proofs (ZKP) is optional, attributed to Veilnyx's modular approach and software development kit (SDK) availability."
 
  
 authors:
@@ -10,8 +10,8 @@ featured: true
 image:
   focal_point: center
 links:
-- name: working paper
-  url: "https://arxiv.org/abs/2307.00521"
+- name: Whitepaper
+  url: "https://veilnyx.com/veilnyx.pdf"
 #projects:
 #- internal-project
 publication: 
@@ -23,7 +23,7 @@ publication_types:
 summary: "We propose a middleware solution designed to facilitate seamless integration of privacy using zero-knowledge proofs within various multi-chain protocols, encompassing domains such as DeFi, gaming, social networks, DAOs, e-commerce, and the metaverse. Our design achieves two divergent goals. zkFi aims to preserve consumer privacy while achieving regulation compliance through zero-knowledge proofs. These ends are simultaneously achievable. zkFi protocol is designed to function as a plug-and-play solution, offering developers the flexibility to handle transactional assets while abstracting away the complexities associated with zero-knowledge proofs. Notably, specific expertise in zero-knowledge proofs (ZKP) is optional, attributed to zkFi's modular approach and software development kit (SDK) availability. ."
 tags:
 - Source Themes
-title: "zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs"
+title: "Veilnyx: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs"
 #url_code: '#'
 #url_dataset: '#'
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
